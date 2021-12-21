@@ -1,0 +1,57 @@
+body{
+    background-color: white;
+}
+
+.contact{
+    background-color: blue;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 100px;
+    margin-top: 200px;
+    font-size: 70px;
+    color: white;
+}
+
+form{
+  
+    margin: 20px auto;
+    text-align: center;
+  
+    
+}
+
+input{
+    padding: 10px;
+}
+
+input[type=text] {
+    display: block;
+    margin-bottom: 10px;
+    width: 300px;
+    margin: 20px auto;
+    
+}
+
+button{
+    background-color: rgb(3, 3, 121);
+    width: 320px;
+    color: white;
+    padding: 10px;
+    margin-bottom: 100px;
+}
+
+/* a[href="#"]{
+    color: white;
+    /* text-align: center; */
+    /* margin: 20px auto; */
+/* } */ 
+
+p{
+    text-align: center;
+}
+
+a[href="#"]{
+    color: white;
+}
